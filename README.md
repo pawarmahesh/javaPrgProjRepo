@@ -1,2 +1,2 @@
-# javaDistAppRepo
-java distibuted application repository
+# javaPrgProjRepo
+java Programming Project Repository
